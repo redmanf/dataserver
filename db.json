@@ -5,7 +5,32 @@
       "title": "hello"
     }
   ],
+  
   "profile": {
     "name": "typicode"
-  }
+  },
+  
+  "persons":[
+    {
+        "id": 2,
+        "lastname": "Novak",
+        "firstname": "Sergii",
+        "email": "sergii.novak.rm@gmail.com",
+        "facebookApiKey": "733436472364234",
+        "twitterApiKey": "543256325423423",
+        "nickname" : "sergii_novak",
+        "property" : [
+            {
+                "id" : 1,
+                "address" : "Kulas Light Apt. 556",
+                "city": "Gwenborough",
+                "name" : "First Property",
+                "state" : "",
+                "zip" : "929983874",
+                "person_id" : 1
+            }
+        ]
+ 
+    }
+  ]
 }
